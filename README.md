@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/apijyb6311anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **jyb6311/jyb6311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
